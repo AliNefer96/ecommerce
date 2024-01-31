@@ -3,7 +3,6 @@
 This is a Flutter app for an E-Commerce platform, featuring product listing, filtering, and details.
 
 ## Table of Contents
-
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
